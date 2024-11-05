@@ -15,3 +15,12 @@
 # Halaman Contact
 
 ![Screenshot 2024-11-04 213853](https://github.com/user-attachments/assets/7f8684e5-b298-480c-bca4-52d3d532abb5)
+
+# Halaman Datetable
+
+![Screenshot 2024-11-05 182456](https://github.com/user-attachments/assets/c563cffd-3563-4d64-b1b1-81738f3659c4)
+
+# Halaman Form
+
+![Screenshot 2024-11-05 182523](https://github.com/user-attachments/assets/fb4bfe13-5511-4edd-8b25-ec710adf7e2e)
+
