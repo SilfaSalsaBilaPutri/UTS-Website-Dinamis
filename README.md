@@ -6,21 +6,20 @@
 
 # Halaman Home
 
-![Screenshot 2024-11-04 213813](https://github.com/user-attachments/assets/816389bb-01f9-414c-a452-e6e03c73379f)
+![Screenshot 2024-11-05 185126](https://github.com/user-attachments/assets/0c783d1c-04eb-4b1f-9713-58de3a4a692a)
 
 # Halaman About
 
-![Screenshot 2024-11-04 213837](https://github.com/user-attachments/assets/6e58253d-276e-479e-9580-e0e743f6877d)
+![Screenshot 2024-11-05 185157](https://github.com/user-attachments/assets/ff31d895-941c-448b-af0b-fe72213c06c1)
 
 # Halaman Contact
 
-![Screenshot 2024-11-04 213853](https://github.com/user-attachments/assets/7f8684e5-b298-480c-bca4-52d3d532abb5)
+![Screenshot 2024-11-05 185219](https://github.com/user-attachments/assets/75d9be15-9eee-42a1-9244-3d7ed4afbcbe)
 
 # Halaman Datetable
 
-![Screenshot 2024-11-05 182456](https://github.com/user-attachments/assets/c563cffd-3563-4d64-b1b1-81738f3659c4)
+![Screenshot 2024-11-05 185243](https://github.com/user-attachments/assets/096200d7-eaef-4cae-a659-e0339c6d4b53)
 
 # Halaman Form
 
-![Screenshot 2024-11-05 182523](https://github.com/user-attachments/assets/fb4bfe13-5511-4edd-8b25-ec710adf7e2e)
-
+![Screenshot 2024-11-05 185307](https://github.com/user-attachments/assets/8c812d15-6f71-47b6-9fe0-316d82faa0b5)
